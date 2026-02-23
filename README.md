@@ -1,1 +1,2 @@
-![logo](./uchida-store.drawio.png)
+![motif](./uchida-store.drawio.png)
+![wip](./UchidaStore_wip.jpg)
